@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphisum.Demo", "Polymorphisum.Demo\Polymorphisum.Demo.csproj", "{54ADA27D-E6CE-472F-8002-A5B347A4B279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsolation", "Encapsolation\Encapsolation.csproj", "{34F3048A-1230-458E-A306-798062EB4242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54ADA27D-E6CE-472F-8002-A5B347A4B279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ADA27D-E6CE-472F-8002-A5B347A4B279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ADA27D-E6CE-472F-8002-A5B347A4B279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ADA27D-E6CE-472F-8002-A5B347A4B279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F3048A-1230-458E-A306-798062EB4242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F3048A-1230-458E-A306-798062EB4242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F3048A-1230-458E-A306-798062EB4242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F3048A-1230-458E-A306-798062EB4242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC42ABBB-0340-4AB3-AC0B-C4A58A54D1B1}
+	EndGlobalSection
+EndGlobal
